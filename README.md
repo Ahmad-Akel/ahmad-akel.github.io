@@ -1,10 +1,15 @@
 ### Hi there 👋
-  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of CZU on Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
+  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of CZU on Czech Republic.
   
-📍You can message me via [GitHub Discussion](https://github.com/Ahmad-Akel/Ahmad-Akel/discussions)
-
+📍You can message me via [LinkedIn](https://www.linkedin.com/in/ahmadakel/)
+<br />
+<br />
+<br />
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5VmIxVtLRsoqlMaan61wSQ?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC5VmIxVtLRsoqlMaan61wSQ)
-
+<br />
+<br />
+<br />
+<br />
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmadakel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="samyr-ribeiro-82a720145" height="32" width="40" /></a>
 <a href="https://stackoverflow.com/users/10242422/ahmad-akell" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" alt="189079" height="32" width="40" /></a>
@@ -18,6 +23,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
+<br />
+<br />
 [<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="Typescipt" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
