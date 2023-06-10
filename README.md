@@ -28,6 +28,8 @@
 [<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="Typescipt" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
+<br />
+<br />
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="OraclaSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://ohmycodechallenge.blogspot.com/)
